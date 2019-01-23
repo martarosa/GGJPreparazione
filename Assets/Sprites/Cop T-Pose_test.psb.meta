@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: cec6c4f56de22ea43b8b98836ebf00f2
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: Cop T-Pose_test_GO/Cop T-Pose_test_GO
+    100002: Cop T-Pose_test_GO/Cop T-Pose_test_GO/Cop T-Pose.png
+    100004: Cop T-Pose_test_GO/Cop T-Pose_test_GO/Livello
+    100006: 'Cop T-Pose_test_GO/Cop T-Pose_test_GO/Livello #1'
+    400000: Cop T-Pose_test_GO/Cop T-Pose_test_GO/Transform
+    400002: Cop T-Pose_test_GO/Cop T-Pose_test_GO/Cop T-Pose.png/Transform
+    400004: Cop T-Pose_test_GO/Cop T-Pose_test_GO/Livello/Transform
+    400006: 'Cop T-Pose_test_GO/Cop T-Pose_test_GO/Livello #1/Transform'
+    2800000: Cop T-Pose_test
+    21200000: Cop T-Pose_test_GO/Cop T-Pose_test_GO/Cop T-Pose.png/SpriteRenderer
+    21200002: Cop T-Pose_test_GO/Cop T-Pose_test_GO/Livello/SpriteRenderer
+    21200004: 'Cop T-Pose_test_GO/Cop T-Pose_test_GO/Livello #1/SpriteRenderer'
+    21300000: 'Livello #1'
+    21300002: Cop T-Pose.png
+    21300004: Livello
+    100100000: Cop T-Pose_test_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: 'Livello #1'
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 449
+      width: 188
+      height: 231
+    spriteID: b08961d4dd50fb147bfdc52707152918
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -295, y: -11}
+  - name: Cop T-Pose.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 462
+      height: 437
+    spriteID: a9aa60bc3ce5faf4d8e83dfb6f12e64f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -274, y: -33}
+  - name: Livello
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 449
+      width: 214
+      height: 194
+    spriteID: 25cd70f210946a54f826b6170f58a5e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 112, y: 41}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 512
+  importedTextureHeight: 1024
+  documentSize: {x: 750, y: 750}
+  textureActualWidth: 512
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: 'Livello #1'
+    spriteName: 'Livello #1'
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b08961d4dd50fb147bfdc52707152918
+    layerID: 110310755
+    mosaicPosition: {x: 4, y: 449}
+  - name: Cop T-Pose.png
+    spriteName: Cop T-Pose.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a9aa60bc3ce5faf4d8e83dfb6f12e64f
+    layerID: 1932171075
+    mosaicPosition: {x: 4, y: 4}
+  - name: Livello
+    spriteName: Livello
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 25cd70f210946a54f826b6170f58a5e2
+    layerID: 0
+    mosaicPosition: {x: 200, y: 449}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  firstCreate: 0
+  generateGOHierarchy: 0
